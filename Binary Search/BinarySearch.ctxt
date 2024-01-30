@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment0.text=\n\ Write\ a\ description\ of\ class\ BinarySearch\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=arr\ key\ start\ end
+comment1.target=int\ binarySearch(int[],\ int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
